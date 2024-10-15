@@ -46,7 +46,7 @@ let score =0;
    //  context.fillStyle="green";
    //  context.fillRect(bird.x,bird.y,bird.width,bird.height);
    document.addEventListener('touchstart', function() {
-      velocityY = -5;  // Same as space key for upward movement
+      velocityY = -3;  // Same as space key for upward movement
    });
 
 
